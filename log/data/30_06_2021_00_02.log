@@ -1,0 +1,116 @@
+REMOVING COLLECTION
+Collection removed
+Get Data :
+SPOT :  Baie des Trépassés
+Get Data :
+SPOT :  Blancs Sablons
+Get Data :
+SPOT :  Chassiron
+Get Data :
+SPOT :  Côte Sauvage
+Get Data :
+SPOT :  Etel
+Get Data :
+SPOT :  Fort Bloqué
+Get Data :
+SPOT :  La Palue
+Get Data :
+SPOT :  Le Dossen
+Get Data :
+SPOT :  Le Petit Minou 
+Get Data :
+SPOT :  Les Huttes
+Get Data :
+SPOT :  Les Kaolins
+Get Data :
+SPOT :  Lostmarch
+Get Data :
+SPOT :  Plage de Couarde
+Get Data :
+SPOT :  Plage de Kermabec
+Get Data :
+SPOT :  Plage de l'Ecluse
+Get Data :
+SPOT :  Plage de la falaise
+Get Data :
+SPOT :  Plage de Longchamp
+Get Data :
+SPOT :  Plage de Pen er Malo
+Get Data :
+SPOT :  Plage de Trestraou
+Get Data :
+SPOT :  Plage des Grenettes
+Get Data :
+SPOT :  Plage du Kervel
+Get Data :
+SPOT :  Plage du Moulin de la Rive
+Get Data :
+SPOT :  Plage du P'tit Bec
+Get Data :
+SPOT :  Pointe de la Torche
+Get Data :
+SPOT :  Pors Carn
+Get Data :
+SPOT :  Port Bara
+Get Data :
+SPOT :  Port Blanc
+Get Data :
+SPOT :  Sainte-Barbe
+Get Data :
+SPOT :  Trestel
+Get Data :
+SPOT :  Vague du Port
+Get Data :
+SPOT :  Vert Bois
+Get Data :
+SPOT :  Plage du Ris 
+Get Data :
+SPOT :  Plage de Penhors
+Get Data :
+SPOT :  Goulien 
+Get Data :
+SPOT :  Capo Di Feno
+Get Data :
+SPOT :  Golfu di Lava
+Get Data :
+SPOT :  Algajola
+Get Data :
+SPOT :  Farinole
+Get Data :
+SPOT :  Cap Ferret
+Get Data :
+SPOT :  Carcans Plage
+Get Data :
+SPOT :  Hourtin Plage
+Get Data :
+SPOT :  Lacanau Océan
+Get Data :
+SPOT :  Le Gurp
+Get Data :
+SPOT :  Le Porge
+Get Data :
+SPOT :  Le Truc Vert
+Get Data :
+SPOT :  Plage de Saint-Nicolas
+Get Data :
+SPOT :  Plage Vensac
+Get Data :
+SPOT :  Soulac-sur-Mer
+Get Data :
+SPOT :  Biscarosse Plage
+Get Data :
+SPOT :  Plage du métro
+Get Data :
+SPOT :  La Piste
+Get Data :
+SPOT :  Santocha
+TypeError: Cannot read property 'length' of undefined
+    at /home/teampils/Innowave/utils/load_database.js:55:50
+    at /home/teampils/Innowave/node_modules/mongoose/lib/model.js:4846:16
+    at /home/teampils/Innowave/node_modules/mongoose/lib/model.js:4846:16
+    at /home/teampils/Innowave/node_modules/mongoose/lib/helpers/promiseOrCallback.js:24:16
+    at /home/teampils/Innowave/node_modules/mongoose/lib/model.js:4869:21
+    at /home/teampils/Innowave/node_modules/mongoose/lib/query.js:4424:11
+    at /home/teampils/Innowave/node_modules/kareem/index.js:135:16
+    at processTicksAndRejections (internal/process/task_queues.js:75:11)
+PROCESS END
